@@ -121,18 +121,18 @@ WEB server is need. <br/>
 
 Access to MAMP client-server environment:
 
-<img src="images/MAMP.png" width="400"/>
+<img src="images/MAMP.png" width="300"/>
 <br />
 
 htdocs directory with copied sources:
 
-<img src="images/dir.png" width="400"/>
+<img src="images/dir.png" width="300"/>
 <br />
 
 Game screenshots:
 
-<img src="images/game1.png" width="400"/>
-<img src="images/game2.png" width="400"/>
+<img src="images/game1.png" width="300"/>
+<img src="images/game2.png" width="300"/>
 
 <!-- _For more examples, please refer to the [Documentation](https://example.com)_ -->
 
@@ -204,7 +204,7 @@ Project URL:
 [issues-shield]: https://img.shields.io/github/issues/dominik-stec/PHP_game_PJA.svg?style=for-the-badge
 [issues-url]: https://github.com/dominik-stec/PHP_game_PJA/issues
 [license-shield]: https://img.shields.io/badge/License-NONE-orange
-[license-url]: https://github.com/dominik-stec/PHP_game_PJA/blob/master/LICENSE.txt
+[license-url]: https://github.com/dominik-stec/PHP_game_PJA/blob/master/LICENSE.md
 [linkedin-shield]: https://img.shields.io/badge/-LinkedIn-black.svg?style=for-the-badge&logo=linkedin&colorB=555
 [linkedin-url]: https://www.linkedin.com/in/dominik-stec
 [product-screenshot]: images/screenshot.png
