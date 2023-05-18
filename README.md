@@ -103,10 +103,13 @@ WEB server is need. <br/>
    ```
 2. Install MAMP - frontend layer for local server environment for Windows or MacOS
    `https://www.mamp.info/en/downloads/`
+   <br/>
+   <br/>
 3. Copy files from repo into `htdocs` directory owned by MAMP
    <br/>
    path for MacOS:
    ` Application > MAMP > htdocs`
+   <br/>
    <br/>
 4. Open browser with url
    `localhost:8888`
