@@ -121,18 +121,18 @@ WEB server is need. <br/>
 
 Access to MAMP client-server environment:
 
-<img src="images/MAMP.png" width="300"/>
+<img src="images/MAMP.png" width="400"/>
 <br />
 
 htdocs directory with copied sources:
 
-<img src="images/dir.png" width="300"/>
+<img src="images/dir.png" width="400"/>
 <br />
 
 Game screenshots:
 
-<img src="images/game1.png" width="300"/>
-<img src="images/game2.png" width="300"/>
+<img src="images/game1.png" width="400"/>
+<img src="images/game2.png" width="400"/>
 
 <!-- _For more examples, please refer to the [Documentation](https://example.com)_ -->
 
