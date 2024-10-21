@@ -99,7 +99,7 @@ WEB server is need. <br/>
 
 1. Clone the repo
    ```sh
-   git clone https://github.com/dominik-stec/PHP_game_PJA.git
+   git clone https://github.com/dominik-stec/PHP.git
    ```
 2. Install MAMP - frontend layer for local server environment for Windows or MacOS
    `https://www.mamp.info/en/downloads/`
@@ -174,7 +174,7 @@ Dominik Stec - dccstcc@gmail.com
 
 Project URL:
 <br />
-`https://github.com/dominik-stec/PHP_game.git`
+`https://github.com/dominik-stec/PHP.git`
 
 <!-- ACKNOWLEDGEMENTS
 ## Acknowledgements
@@ -195,16 +195,16 @@ Project URL:
 <!-- MARKDOWN LINKS & IMAGES -->
 <!-- https://www.markdownguide.org/basic-syntax/#reference-style-links -->
 
-[contributors-shield]: https://img.shields.io/github/contributors/dominik-stec/PHP_game.svg?style=for-the-badge
-[contributors-url]: https://github.com/dominik-stec/PHP_game/graphs/contributors
-[forks-shield]: https://img.shields.io/github/forks/dominik-stec/PHP_game.svg?style=for-the-badge
-[forks-url]: https://github.com/dominik-stec/PHP_game/network/members
-[stars-shield]: https://img.shields.io/github/stars/dominik-stec/PHP_game.svg?style=for-the-badge
-[stars-url]: https://github.com/dominik-stec/PHP_game/stargazers
-[issues-shield]: https://img.shields.io/github/issues/dominik-stec/PHP_game.svg?style=for-the-badge
-[issues-url]: https://github.com/dominik-stec/PHP_game/issues
+[contributors-shield]: https://img.shields.io/github/contributors/dominik-stec/PHP.svg?style=for-the-badge
+[contributors-url]: https://github.com/dominik-stec/PHP/graphs/contributors
+[forks-shield]: https://img.shields.io/github/forks/dominik-stec/PHP.svg?style=for-the-badge
+[forks-url]: https://github.com/dominik-stec/PHP/network/members
+[stars-shield]: https://img.shields.io/github/stars/dominik-stec/PHP.svg?style=for-the-badge
+[stars-url]: https://github.com/dominik-stec/PHP/stargazers
+[issues-shield]: https://img.shields.io/github/issues/dominik-stec/PHP.svg?style=for-the-badge
+[issues-url]: https://github.com/dominik-stec/PHP/issues
 [license-shield]: https://img.shields.io/badge/License-NONE-orange
-[license-url]: https://github.com/dominik-stec/PHP_game/blob/master/LICENSE.md
+[license-url]: https://github.com/dominik-stec/PHP/blob/master/LICENSE.md
 [linkedin-shield]: https://img.shields.io/badge/-LinkedIn-black.svg?style=for-the-badge&logo=linkedin&colorB=555
 [linkedin-url]: https://www.linkedin.com/in/dominik-stec
 [product-screenshot]: images/screenshot.png
